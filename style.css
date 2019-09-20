@@ -5,5 +5,9 @@ input {
 }
 
 textarea {
-    border: 4mm ridge rgba(255, 0, 0, 0.63);
+    border: 4px ridge rgba(255, 0, 0, 0.63);
+}
+
+textarea:focus {
+    border: 4px ridge green;
 }
