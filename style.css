@@ -2,9 +2,8 @@ input {
     width: 250px;
     border-radius: 0% 0% 0% 0%;
     border-style: double;
-    border: 4mm ridge rgba(142, 150, 255, 0.63);
 }
 
 textarea {
-    border: 4mm ridge rgba(142, 150, 255, 0.63);
+    border: 4mm ridge rgba(255, 0, 0, 0.63);
 }
